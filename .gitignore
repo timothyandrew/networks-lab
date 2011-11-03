@@ -1,4 +1,5 @@
-*.*
-!*.c
-!*.md
-!*.gitignore
+.DS_Store
+*.doc
+*.docx
+*.pdf
+*.txt
