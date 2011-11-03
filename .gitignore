@@ -3,3 +3,7 @@
 *.docx
 *.pdf
 *.txt
+B/4 - socket/client
+B/4 - socket/server
+B/5 - fifo/client
+B/5 - fifo/server
