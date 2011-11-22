@@ -62,7 +62,7 @@ void unshuffle(packet* packets, int length){
 
 int main(int argc, char* argv[]){
   char* msg = "Hello, my name is timothy.";
-  int num_of_packets = (strlen(msg)/3)+1;
+  int num_of_packets = (strlen(msg)/size)+1;
   packet packets[num_of_packets];
 
   make_packets(msg, packets);
